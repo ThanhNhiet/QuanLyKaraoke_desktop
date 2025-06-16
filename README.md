@@ -1,5 +1,6 @@
 ## **ỨNG DỤNG QUẢN LÝ KARAOKE NNICE**
 > Ứng dụng được phát triển nhằm hỗ trợ quản lý hoạt động kinh doanh karaoke: đặt phòng, quản lý nhân viên, khách hàng, dịch vụ, báo cáo doanh thu...
+> Tài liệu: https://drive.google.com/drive/folders/1uUP-FuVIU4QMRZhHQmEQVgS_dkIb-28N?usp=sharing
 
 ## Các thành viên tham gia xây dựng:
 - Nguyễn Trọng Khang
